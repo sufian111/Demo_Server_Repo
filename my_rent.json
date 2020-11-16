@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Washington Avenue",
+        "price":199
+    },
+    {
+        "id": 2,
+        "name": "Gorgeous house",
+        "price":395
+    },
+    {
+        "id": 3,
+        "name": "Washington Avenue",
+        "price":299
+    },
+    
+    {
+        "id": 4,
+        "name": "Luxury villa ",
+        "price":599
+    }
+]
