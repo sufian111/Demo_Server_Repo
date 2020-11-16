@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "name":"Washington Avenue",
+        "location":"Nasirabad H/S , Chattogram",
+        "bedroom":"3 bedrooms",
+        "bathroom":"2 Bathrooms",
+        "img":"https://i.ibb.co/sydNHXW/Rectangle-394.png"
+    },
+    
+    {
+        "id":2,
+        "name":"Family Apartment Three",
+        "location":"Nasirabad H/S , Chattogram",
+        "bedroom":"3 bedrooms",
+        "bathroom":"2 Bathrooms",
+        "img":"https://i.ibb.co/hdw6N2C/Rectangle-406.png"
+    },
+    
+    {
+        "id":3,
+        "name":"Gorgeous house",
+        "location":"Nasirabad H/S , Chattogram",
+        "bedroom":"3 bedrooms",
+        "bathroom":"2 Bathrooms",
+        "img":"https://i.ibb.co/JrzX6WJ/Rectangle-398.png"
+    },
+    
+    {
+        "id":4,
+        "name":"Luxury villa ",
+        "location":"Nasirabad H/S , Chattogram",
+        "bedroom":"3 bedrooms",
+        "bathroom":"2 Bathrooms",
+        "img":"https://i.ibb.co/3pd1r4y/Rectangle-405.png"
+    },
+    
+    {
+        "id":5,
+        "name":"Luxury villa ",
+        "location":"Nasirabad H/S , Chattogram",
+        "bedroom":"3 bedrooms",
+        "bathroom":"2 Bathrooms",
+        "img":"https://i.ibb.co/KjWbwvL/Rectangle-403.png"
+    },
+    
+    {
+        "id":6,
+        "name":"Washington Avenue",
+        "location":"Nasirabad H/S , Chattogram",
+        "bedroom":"3 bedrooms",
+        "bathroom":"2 Bathrooms",
+        "img":"https://i.ibb.co/pZbqsnY/Rectangle-404.png"
+    }
+]
