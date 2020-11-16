@@ -5,7 +5,8 @@
         "location":"Nasirabad H/S , Chattogram",
         "bedroom":"3 bedrooms",
         "bathroom":"2 Bathrooms",
-        "img":"https://i.ibb.co/sydNHXW/Rectangle-394.png"
+        "img":"https://i.ibb.co/sydNHXW/Rectangle-394.png",
+        "price":194
     },
     
     {
@@ -14,7 +15,8 @@
         "location":"Nasirabad H/S , Chattogram",
         "bedroom":"3 bedrooms",
         "bathroom":"2 Bathrooms",
-        "img":"https://i.ibb.co/hdw6N2C/Rectangle-406.png"
+        "img":"https://i.ibb.co/hdw6N2C/Rectangle-406.png",
+        "price":356
     },
     
     {
@@ -23,7 +25,8 @@
         "location":"Nasirabad H/S , Chattogram",
         "bedroom":"3 bedrooms",
         "bathroom":"2 Bathrooms",
-        "img":"https://i.ibb.co/JrzX6WJ/Rectangle-398.png"
+        "img":"https://i.ibb.co/JrzX6WJ/Rectangle-398.png",
+        "price":256
     },
     
     {
@@ -32,7 +35,8 @@
         "location":"Nasirabad H/S , Chattogram",
         "bedroom":"3 bedrooms",
         "bathroom":"2 Bathrooms",
-        "img":"https://i.ibb.co/3pd1r4y/Rectangle-405.png"
+        "img":"https://i.ibb.co/3pd1r4y/Rectangle-405.png",
+        "price":345
     },
     
     {
@@ -41,7 +45,8 @@
         "location":"Nasirabad H/S , Chattogram",
         "bedroom":"3 bedrooms",
         "bathroom":"2 Bathrooms",
-        "img":"https://i.ibb.co/KjWbwvL/Rectangle-403.png"
+        "img":"https://i.ibb.co/KjWbwvL/Rectangle-403.png",
+        "price":536
     },
     
     {
@@ -50,6 +55,7 @@
         "location":"Nasirabad H/S , Chattogram",
         "bedroom":"3 bedrooms",
         "bathroom":"2 Bathrooms",
-        "img":"https://i.ibb.co/pZbqsnY/Rectangle-404.png"
+        "img":"https://i.ibb.co/pZbqsnY/Rectangle-404.png",
+        "price":283
     }
 ]
